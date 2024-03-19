@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SavingState</string>
+    <string name="button_text">Get random picture and string (no promises they match)</string>
+    <string name="cds">cds</string>
+    <string name="castle">castle</string>
+    <string name="law">law</string>
+    <string name="marsh">marsh</string>
+    <string name="def">Press Button</string>
+</resources>
